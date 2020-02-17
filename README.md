@@ -1,5 +1,3 @@
-<img src="https://bzx.network/assets/img/logo.svg" width="100px">
-
 ---
 
 [bZx](https://bzx.network) is a protocol for next generation (b)0x-standard relays. A full description of the protocol may be found in our [whitepaper](https://bzx.network/pdfs/bZx_white_paper.pdf).
